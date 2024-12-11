@@ -1,6 +1,6 @@
 {
   "name": "FIVA Mainnet Card",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Fiva-protocol/nfts-manifest/refs/heads/main/assets/mainnet-access.png",
   "description": "Limited edition card granting access to FIVA Protocol's Closed Mainnet Beta.",
   "marketplace": "getgems.io",
   "attributes": [
@@ -8,5 +8,6 @@
       "trait_type": "Background",
       "value": "Dark"
     }
-  ]
+  ],
+  "content_url": ""
 }

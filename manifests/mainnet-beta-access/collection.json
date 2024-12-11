@@ -1,7 +1,7 @@
 {
   "name": "FIVA Mainnet Card Collection",
   "description": "An exclusive collection of limited edition cards granting privileged access to FIVA Protocol's Closed Mainnet Beta. It's a testament to the holder's early belief and support for the FIVA Protocol.",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/Fiva-protocol/nfts-manifest/refs/heads/main/assets/mainnet-access-collection.png",
   "social_links": [
     "https://t.me/fiva_yield_bot/app",
     "https://x.com/FivaProtocol",
