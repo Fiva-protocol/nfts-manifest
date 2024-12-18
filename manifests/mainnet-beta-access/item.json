@@ -1,12 +1,16 @@
 {
   "name": "FIVA Mainnet Card",
-  "image": "https://ipfs.io/ipfs/QmZ5nNPzXqfSuVx975N2Jb3RpvtQf1AagJntxdvJJiRon1",
+  "image": "https://ipfs.io/ipfs/QmT6LbmCEuNfgaKz2ZusMVaJPdhtCMonfZQtcYYFzzhUQV",
   "description": "Limited edition card granting access to FIVA Protocol's Closed Mainnet Beta.",
   "marketplace": "getgems.io",
   "attributes": [
     {
       "trait_type": "Background",
       "value": "Dark"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
     }
   ]
 }
