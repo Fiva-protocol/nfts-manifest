@@ -3,7 +3,7 @@
   "image": "https://ipfs.io/ipfs/QmVeo4PxPunEt9FxZtRTHpTSkqx9NtqsvSUQTWZpojEZuE",
   "description": "Limited edition card granting access to FIVA Protocol's Closed Mainnet Beta.",
   "marketplace": "getgems.io",
-  "content_url": "https://ipfs.io/ipfs/QmZ5nNPzXqfSuVx975N2Jb3RpvtQf1AagJntxdvJJiRon1",
+  "animation_url": "https://ipfs.io/ipfs/QmZ5nNPzXqfSuVx975N2Jb3RpvtQf1AagJntxdvJJiRon1",
   "attributes": [
     {
       "trait_type": "Background",
