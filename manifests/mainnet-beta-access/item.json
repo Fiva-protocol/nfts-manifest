@@ -1,11 +1,9 @@
 {
-  "name": "FIVA Mainnet Card",
+  "name": "FIVA Genesis Pass",
   "image": "https://ipfs.io/ipfs/QmQLxVWBYLSsV9M591QeuyEPToJ7TCJidauNYZZN6NWHg9",
-  "lottie": "https://ipfs.io/ipfs/QmYfT1QUbjSQXf7TzjE7mTavrdfxkouaiEZgYxQHc9mMQ6",
-  "description": "Limited edition card granting access to FIVA Protocol's Closed Mainnet Beta.",
+  "content_url": "https://ipfs.io/ipfs/QmdWhedAnUB1LkPKUScWdkYAWs96SkVjNUXcFWxPktrRNV",
+  "description": "A Genesis Key representing a unique position in FIVA's ecosystem.",
   "marketplace": "getgems.io",
-  "content_type": "video/webm",
-  "animation_url": "https://ipfs.io/ipfs/QmT6LbmCEuNfgaKz2ZusMVaJPdhtCMonfZQtcYYFzzhUQV",
   "attributes": [
     {
       "trait_type": "Background",
