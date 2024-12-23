@@ -1,7 +1,6 @@
 {
   "name": "FIVA Genesis Pass",
-  "image": "https://ipfs.io/ipfs/QmQLxVWBYLSsV9M591QeuyEPToJ7TCJidauNYZZN6NWHg9",
-  "content_url": "https://ipfs.io/ipfs/QmdWhedAnUB1LkPKUScWdkYAWs96SkVjNUXcFWxPktrRNV",
+  "image": "https://ipfs.io/ipfs/QmdWhedAnUB1LkPKUScWdkYAWs96SkVjNUXcFWxPktrRNV",
   "description": "A Genesis Key representing a unique position in FIVA's ecosystem.",
   "marketplace": "getgems.io",
   "attributes": [
